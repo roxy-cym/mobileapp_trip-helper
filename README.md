@@ -6,23 +6,24 @@ Trip helper is an app that helps you plan your trip. It has three main functions
 
 1. blank main page
 2. add a new trip
-3. add the trip destination
-4. add the trip duration  
+3. search the trip destination
+ 
 <div align="center">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_main_blank.png" width="300px" height="600px">
+    <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_country.png" width="300px" height="600px">
-<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
-</div>    
-
-
+</div>  
+  
+4. select the trip time range
 5. the new trip display on the main page and click one of the trip records  
 6. menu page  
     
 <div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_main.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_menu.png" width="300px" height="600px">
 </div>  
-
+  
 7. select trip spending-enter a new page  
 8. add a trip expense  
 9. display the expenses 
@@ -32,11 +33,12 @@ Trip helper is an app that helps you plan your trip. It has three main functions
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_spending.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_spending_display.png" width="300px" height="600px">
 </div>
-
+  
+  
 10. select trip notes-enter a new page 
 11. add a trip note 
 12. display the notes 
- 
+  
 <div align="center">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_notes_blank.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_notes.png" width="300px" height="600px">
