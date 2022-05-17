@@ -83,7 +83,6 @@ class _Trip_SpendingState extends State<Trip_Spending> {
             (addTransfer) => _updateRecord(addTransfer),
           );
         },
-        backgroundColor: Colors.green,
         child: Icon(Icons.add),
       ),
     );

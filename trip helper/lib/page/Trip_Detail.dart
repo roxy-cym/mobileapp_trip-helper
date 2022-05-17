@@ -27,8 +27,8 @@ class _Main_detail extends State<Main_detail> {
         return Theme(
             data: ThemeData.light().copyWith(
               colorScheme: ColorScheme.light(
-                primary: Colors.greenAccent,
-                surface: Colors.greenAccent,
+                primary: Colors.lightBlue,
+                surface: Colors.lightBlue,
                 onPrimary: Colors.black,
               ),
             ),
