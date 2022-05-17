@@ -2,21 +2,59 @@
 
 Trip helper is an app that helps you plan your trip. It has three main functions, writing notes, recording trip expense, checking important items for the trip. At the main page,it allow you to add a new trip then you need to select your trip destination and trip duration, then the new-created trip would be displayed at the main page with these details. When you click the trip - three functions will be seen. Trip notes-You can write down your own travel planning, travel diary and other text content to record everything you want to record during the trip; Trip spending-You can record your travel expenses, which can record the amount of expenses and the categories of expenses to help you manage or control your expenses easily; Trip checklist, this checklist helps you prepare all the things you want to bring before your trip. This app allow you to easily plan your every trip.
 
-## app pages 
- ### main page
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
+## App pages display and app usage
 
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
+1. blank main page
+2. add a new trip
+3. add the trip destination
+4. add the trip duration  
+<div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_country.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
+</div>    
 
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
+
+5. the new trip display on the main page and click one of the trip records  
+6. menu page  
+    
+<div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_main.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_menu.png" width="300px" height="600px">
+</div>  
+
+7. select trip spending-enter a new page  
+8. add a trip expense  
+9. display the expenses 
+ 
+<div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_spending_blank.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_spending.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_spending_display.png" width="300px" height="600px">
+</div>
+
+10. select trip notes-enter a new page 
+11. add a trip note 
+12. display the notes 
+ 
+<div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_notes_blank.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_notes.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_notes_display.png" width="300px" height="600px">
+</div>  
+
+13. select trip checklist-enter a new page 
+14. display the items 
+ 
+<div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_checklist.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_country.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
+</div>
 
 
-## Include A Section That Tells Developers How To Install The App
+## Requirements
+1.Any Operating System (ie. MacOS X, Linux, Windows)  
+2.Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
 
-##  Contact Details
-
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
