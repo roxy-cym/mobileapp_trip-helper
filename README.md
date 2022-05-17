@@ -9,7 +9,7 @@ Trip helper is an app that helps you plan your trip. It has three main functions
 3. add the trip destination
 4. add the trip duration  
 <div align="center">
-<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail.png" width="300px" height="600px">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_main_blank.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_country.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
 </div>    
@@ -44,12 +44,11 @@ Trip helper is an app that helps you plan your trip. It has three main functions
 </div>  
 
 13. select trip checklist-enter a new page 
-14. display the items 
+14. click prepared items 
  
 <div align="center">
+<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_checklist_blank.png" width="300px" height="600px">
 <img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_checklist.png" width="300px" height="600px">
-<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_country.png" width="300px" height="600px">
-<img src="https://github.com/roxy-cym/mobileapp_trip-helper/blob/main/pages/Trip_detail_date.png" width="300px" height="600px">
 </div>
 
 
